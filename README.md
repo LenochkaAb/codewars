@@ -1,1 +1,2 @@
 # codewars
+My tasks solving
